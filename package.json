@@ -1,0 +1,19 @@
+{
+  "name": "fbnepal",
+  "version": "1.0.0",
+  "description": "Futsal Booking Nepal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sb5512/FBNepal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sb5512/FBNepal/issues"
+  },
+  "homepage": "https://github.com/sb5512/FBNepal#readme"
+}
